@@ -7,6 +7,7 @@ A library for Speech-to-Text (and Text-to-Speech) for [Processing](http://www.pr
 
 * Based on the [VOCE library](http://voce.sourceforge.net/) by [Tyler Streeter](http://www.tylerstreeter.net)
 * [Speech Recognition Example](examples/recognitionTest) adapted for Processing
+* [Speech Synthesis Example](examples/synthesisTest) adapted for Processing
 * Tested with Processing 3.0.1 on OS X
 * This is just a quick hack (More work needed to turn this into a fully fledged Processing library)
 
