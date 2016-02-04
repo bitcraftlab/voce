@@ -10,6 +10,10 @@ A library for Speech-to-Text (and Text-to-Speech) for [Processing](http://www.pr
 * Tested with Processing 3.0.1 on OS X
 * This is just a quick hack (More work needed to turn this into a fully fledged Processing library)
 
+## Install
+
+Unzip or clone this repository into your processing libraries folder.
+
 ## License
 
 The VOCE library is licensed under [BSD](docs/license-BSD.txt) and [LGPL](docs/license-LGPL.txt).
